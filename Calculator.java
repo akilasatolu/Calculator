@@ -35,8 +35,8 @@ public class Calculator {
                 scanner.close();
                 return;
         }
-        System.out.println("ドゥルルルルルルルルルル");
-        System.out.println("ドゥンッ");
+        System.out.println("ドゥルルルルルルルルルル。");
+        System.out.println("ドゥンッ。");
         System.out.println(result);
         scanner.close();
     }
